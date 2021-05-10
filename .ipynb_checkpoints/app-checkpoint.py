@@ -1,3 +1,5 @@
+from typing import Any, Union
+
 import pandas as pd
 import streamlit as st
 from playsound import *
